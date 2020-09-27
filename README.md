@@ -1,4 +1,5 @@
 # vanity-contract
+![](https://github.com/nondejus/vanity-contract/blob/master/googles-22nd-birthday-6753651837108550.2-lac.gif)
 Tool to mine vanity ETH contract address
 
 Uses ethereumjs-wallet to randomly generate wallet and checks first contract address created at nonce 0 would match pattern.
